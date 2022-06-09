@@ -1,4 +1,5 @@
 .body {
+    font-family: Roboto, 'Segoe UI', Arial, Verdana;
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -32,3 +33,66 @@ ul {
     gap: 15px;
     font-size: 18px;
 }
+
+.hero {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    gap: 85px;
+    padding: 105px;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 400px;
+}
+
+.big {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.small {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.top {
+    background-color: rgb(72, 132, 229);
+    color: #f9faf8;
+    width: 100px;
+    height: 25px;
+    border: none;
+    border-radius: 7px;
+}
+
+#water {
+    width: 375px;
+    height: 200px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+
+.items {
+    display: flex;
+    justify-content: center;
+}
+
+.info img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
