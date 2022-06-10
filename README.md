@@ -1,1 +1,1 @@
-This is the second project as part of the Odin Project. I will be creating a website landing page using CSS flexbox skills, as well as other CSS skills.
+This is the second project as part of the Odin Project. I will be creating a website landing page using CSS flexbox skills, as well as other CSS skills. This landing page will be based on Cayde-6, a character in the video game, Destiny 2.
