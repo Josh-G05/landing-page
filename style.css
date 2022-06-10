@@ -133,3 +133,56 @@ ul {
     display: flex;
     justify-content: right;
 }
+
+.sign {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #3882f6;
+    gap: 30px;
+    width: 800px;
+    height: 100px;
+    border-radius: 7px;
+}
+
+.call {
+    display: flex;
+    flex-direction: column;
+}
+
+.call .big {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.call .small {
+    font-size: 18px;
+}
+
+.bot {
+    background-color: transparent;
+    color: #f9faf8;
+    width: 100px;
+    height: 25px;
+    border-color: #f9faf8;
+    border-radius: 7px;
+    border-style: solid;
+}
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: #f9faf8;
+}
+
